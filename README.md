@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALI0x01
-- 👀 I’m interested in vulnerability Research & Binary Analysis,Embedded Linux.
-- 🌱 I’m currently learning Reverse Engineering
+- 👀 I’m interested in System Security
+- 🌱 I’m currently learn Software Reverse Engineering
 - 📫 How to reach me : Telegram ID @Al0reb
 
 <!---
