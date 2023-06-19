@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALI0x01
-- 👀 I’m interested in Binary Analysis , Malware Dev
-- 📫 How to reach me : Telegram ID @Al0reb
+- 👀 I’m interested in....
+- 📫 How to reach in ...
 
 <!---
 ALI0x01/ALI0x01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
