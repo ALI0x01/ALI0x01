@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALI0x01
-- 👀 I’m interested in Embedded Linux & Reverse engineering 
-- 🌱 I’m currently learning Reverse Engineering 
+- 👀 I’m interested in System Security
+- 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me : Telegram ID @Al0reb
 
