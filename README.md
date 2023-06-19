@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ALI0x01
-- 👀 I’m interested in Vulnerablity Research , Binary Analysis , Malware DEV
-- 🌱 I’m currently learn Python , OS
+- 👀 I’m interested in Binary Analysis , Malware Dev
 - 📫 How to reach me : Telegram ID @Al0reb
 
 <!---
