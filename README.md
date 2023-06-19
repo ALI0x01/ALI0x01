@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALI0x01
-- 👀 I’m interested in System Security
-- 🌱 I’m currently learn Software Reverse Engineering
+- 👀 I’m interested in Vulnerablity Research , Binary Analysis , Malware DEV
+- 🌱 I’m currently learn Python , OS
 - 📫 How to reach me : Telegram ID @Al0reb
 
 <!---
