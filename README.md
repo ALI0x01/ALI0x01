@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ALI0x01
-- 👀 I’m interested in....
-- 📫 How to reach in ...
+- 👀 I’m interested in Reverse Engineering & Malware Analysis
 
 <!---
 ALI0x01/ALI0x01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
